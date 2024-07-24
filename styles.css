@@ -1,0 +1,11 @@
+
+.grid{
+    display: flex;
+}
+
+.box{
+    width: 25px;
+    height: 20px;
+    border: 1px solid brown;
+    background: yellow;
+}
